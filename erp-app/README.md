@@ -1,7 +1,7 @@
 After cloning the go into the folder erp-app by using
 1.cd erp-app
 2.npm install
-2.npm run start
+3.npm run start
 
 folder structure
 /erp-app
