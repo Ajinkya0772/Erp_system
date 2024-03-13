@@ -2,7 +2,7 @@ After cloning the go into the folder erp-app by using
 1.cd erp-app
 2.npm install
 3.npm run start
-<img width="960" alt="image" src="https://github.com/Ajinkya0772/Erp_system/assets/128412732/7db40f4d-49cc-4d7e-a3e3-591e94e23a5f">
+
 
 folder structure
 /erp-app
